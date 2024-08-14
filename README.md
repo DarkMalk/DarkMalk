@@ -1,7 +1,3 @@
-<img align="left" height="350" src="https://avatars.githubusercontent.com/u/82101078?v=4"  />
-
-###
-
 <h1 align="center">Hola, soy Sebastián Antonio Vergara Muñoz</h1>
 
 ###
